@@ -1,9 +1,9 @@
 # Personal Task Manager
 
-Project Code: WST21-PM-2026-SF
-Student Name: Mark Anthony B. Sanchez
-Course & Year: BSIT-2
-Database Used: SQLite
+**Project Code: WST21-PM-2026-SF**
+**Student Name: Mark Anthony B. Sanchez**
+**Course & Year: BSIT-2**
+**Database Used: SQLite**
 
 ## Features
 - Add Task
